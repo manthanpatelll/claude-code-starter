@@ -1,0 +1,7 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin.json",
+  "name": "deploy",
+  "version": "1.0.0",
+  "description": "Example plugin: a deploy + release workflow bundled as one installable package. Commands are namespaced (e.g. /deploy:release).",
+  "author": { "name": "Your Name" }
+}

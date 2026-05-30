@@ -1,0 +1,14 @@
+# Dependencies
+node_modules/
+.next/
+
+# Secrets and personal config
+.env
+.env.local
+.env*.local
+CLAUDE.local.md
+.claude/settings.local.json
+
+# OS / editor
+.DS_Store
+.vscode/

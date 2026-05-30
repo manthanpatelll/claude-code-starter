@@ -1,0 +1,17 @@
+{
+  "$schema": "https://json.schemastore.org/mcp.json",
+  "mcpServers": {
+    "playwright": {
+      "command": "npx",
+      "args": ["-y", "@playwright/mcp@latest"]
+    },
+    "_example_database": {
+      "_comment": "Replace with your real MCP server. Example shape only.",
+      "command": "npx",
+      "args": ["-y", "your-mcp-server", "--project", "your-project"],
+      "env": {
+        "YOUR_API_TOKEN": "${YOUR_API_TOKEN}"
+      }
+    }
+  }
+}
