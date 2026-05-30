@@ -1,0 +1,8 @@
+# CLAUDE.local.md
+
+Personal, machine-local notes. Gitignored. Never committed, never shared.
+Use this for your own paths, shortcuts, and scratch notes.
+
+- (example) Dev server already runs on port 3000. Don't start a second one.
+- (example) My local scratch outputs go to ~/Desktop/scratch/, safe to delete.
+- (example) When I say "ship it" I mean: lint, build, then open a PR. Never merge for me.
