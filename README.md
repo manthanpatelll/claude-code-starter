@@ -120,6 +120,21 @@ block). The script files are the *what*; settings.json is the *when*.
 * PenAnywhere: https://apps.apple.com/app/penanywhere/id6760774183
 * Impromptly AI: https://impromptly.ai/
 
+## 🔗 Connect with me
+
+* Instagram: https://www.instagram.com/leadgenman/
+* LinkedIn: https://www.linkedin.com/in/leadgenmanthan/
+* Facebook: https://www.facebook.com/leadgenman/
+* TikTok: https://www.tiktok.com/@leadgenmanthan
+* YouTube: https://www.youtube.com/@LeadGenMan
+* Community: https://www.skool.com/ai-inner-circle/about
+
+## 🛠️ My products
+
+* TiltIt: https://www.tiltit.video
+* PenAnywhere: https://apps.apple.com/app/penanywhere/id6760774183
+* Impromptly AI: https://impromptly.ai/
+
 ## License
 
 MIT. Use it however you like.
