@@ -1,4 +1,10 @@
-# Claude Code Starter
+# 🚀 Claude Code Starter
+
+**By Manthan Patel (@LeadGenMan)**
+
+🔗 [LinkedIn](https://www.linkedin.com/in/leadgenmanthan/) • 📸 [Instagram](https://www.instagram.com/leadgenman/) • 📘 [Facebook](https://www.facebook.com/leadgenman/) • 🎵 [TikTok](https://www.tiktok.com/@leadgenmanthan) • 🎥 [YouTube](https://www.youtube.com/@LeadGenMan) • 🎓 [Community](https://www.skool.com/ai-inner-circle/about) • 🎬 [TiltIt](https://www.tiltit.video) • ✏️ [PenAnywhere](https://apps.apple.com/app/penanywhere/id6760774183) • 🗣️ [Impromptly AI](https://impromptly.ai/)
+
+* * *
 
 A clean, copy-paste `.claude/` setup for [Claude Code](https://claude.com/claude-code).
 Drop it into any project (new or existing) and you get a sensible, modern Claude
@@ -98,6 +104,21 @@ block). The script files are the *what*; settings.json is the *when*.
 2. Edit `.mcp.json` with your real MCP servers.
 3. Edit `pre-deploy-guard.sh` so the grep matches your deploy command.
 4. Add your own skills under `.claude/skills/<name>/SKILL.md`.
+
+## 🔗 Connect with me
+
+* Instagram: https://www.instagram.com/leadgenman/
+* LinkedIn: https://www.linkedin.com/in/leadgenmanthan/
+* Facebook: https://www.facebook.com/leadgenman/
+* TikTok: https://www.tiktok.com/@leadgenmanthan
+* YouTube: https://www.youtube.com/@LeadGenMan
+* Community: https://www.skool.com/ai-inner-circle/about
+
+## 🛠️ My products
+
+* TiltIt: https://www.tiltit.video
+* PenAnywhere: https://apps.apple.com/app/penanywhere/id6760774183
+* Impromptly AI: https://impromptly.ai/
 
 ## License
 
